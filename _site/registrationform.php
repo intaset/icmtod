@@ -246,7 +246,7 @@ mail($your_email,$your_subject,$message,$your_headers);
       <p class="body">ICMTOD 2017 will  be held in Barcelona, Spain on April 7 - 8, 2017 at the Alimara Hotel Barcelona.</p>
 
       <p class="bold">Poster Board Dimensions:</p>
-      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 80 cm width.</p>
+      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 130 cm height and 95 cm width.</p>
 
       <!-- <p class="bold">Sponsor:</p>
       <p class="body">CSP'16 is proud to announce that <b>Photron</b> will be a sponser and an exhibitor during the duration of the congress!</p>
