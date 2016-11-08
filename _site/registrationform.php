@@ -59,15 +59,15 @@ $message = $message . PHP_EOL.PHP_EOL."-- ".PHP_EOL."";
 
 $message = stripslashes($message);
 
-$subject = "Registration Details for " . $_REQUEST['Email'];
+$subject = "Registration Details for " . $_REQUEST['email'];
 
-$your_headers = "From: ICMTOD'17 <" . $my_email . ">";
+$headers = "From: " . $_REQUEST['email'];
 
-$your_email = $_REQUEST['Email'];
+$your_email = $_REQUEST['email'];
 
 $your_subject = "Your Registration Details for ICMTOD'17";
 
-$your_headers = "From: " . $my_email;
+$your_headers = "From: ICMTOD'17 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
