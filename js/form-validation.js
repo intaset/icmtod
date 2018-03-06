@@ -11,7 +11,7 @@ $(function() {
       title: {
         required: true,
       },
-	   Type_of_Registration: "required",
+	  Type_of_Registration: "required",
       First_Name: "required",
       Last_Name: "required",
       affiliation: "required",
