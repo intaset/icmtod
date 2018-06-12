@@ -2204,6 +2204,7 @@ footer form {
 	padding: 10px;
 	margin-top: 0;
 	font-size: 90%;
+
 }
 .grid {
   letter-spacing: -0.31em;
@@ -2656,10 +2657,4 @@ position:relative;
   position: absolute;
   right: 0;
   z-index: 2;
-}
-.announcement-text{
-	background-color: #E2E2E2;
-	padding: 10px;
-	margin-top: 0;
-	font-size: 90%;
 }
